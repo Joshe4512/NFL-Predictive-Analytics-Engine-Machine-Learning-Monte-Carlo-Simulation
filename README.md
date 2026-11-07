@@ -2,7 +2,7 @@
 
 An end-to-end Python data pipeline that ingests historical NFL performance data, engineers time-series momentum features, trains an ensemble Random Forest classifier, and executes a stochastic Monte Carlo simulation with dynamic Regression to the Mean to predict the remainder of the NFL season.
 
-**Author:** Joshua Evans  
+**Author:** Joshua Evans | CS Student @ N.C. A&T
 **Technologies:** Python 3.10+, Pandas, Scikit-Learn, Matplotlib, Seaborn  
 **Domain:** Applied Machine Learning, Time-Series Feature Engineering, Stochastic Modeling, Sports Analytics  
 
